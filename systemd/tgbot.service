@@ -1,0 +1,13 @@
+[Unit]
+Description=Bot for ocaqexpress
+After=network.target
+
+[Service]
+User=ubuntu
+Type=simple
+WorkingDirectory=/home/ubuntu/telegram_bot
+ExecStart=/usr/bin/python3 /home/ubuntu/telegram_bot/bot.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

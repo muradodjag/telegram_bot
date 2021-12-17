@@ -1,0 +1,149 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-05-20 15:05+0400\n"
+"PO-Revision-Date: 2021-05-18 17:11+0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: calculator_func/calculator.py:8 calculator_func/calculator.py:51
+#: calculator_func/calculator.py:78
+msgid ""
+"City: {0}\n"
+"Liquid in parcel: {1}\n"
+"Mass: {2} {3}\n"
+"Price: {4} USD {5} AZN\n"
+msgstr ""
+"Город: {0}\n"
+"Жидкость в посылке: {1}\n"
+"Масса продукта: {2} {3}\n"
+"Цена: {4} USD {5} AZN\n"
+
+#: calculator_func/calculator.py:16 calculator_func/calculator.py:58
+#: calculator_func/calculator.py:85 handlers/users/menu_handlers.py:140
+#: keyboards/inline/menu_keyboards.py:95 keyboards/inline/menu_keyboards.py:96
+msgid "gr"
+msgstr "гр"
+
+#: calculator_func/calculator.py:18 calculator_func/calculator.py:87
+#: keyboards/inline/menu_keyboards.py:77 keyboards/inline/menu_keyboards.py:78
+msgid "No"
+msgstr "Нет"
+
+#: calculator_func/calculator.py:33 calculator_func/calculator.py:100
+#: keyboards/inline/menu_keyboards.py:77 keyboards/inline/menu_keyboards.py:78
+msgid "Yes"
+msgstr "Да"
+
+#: handlers/users/menu_handlers.py:41 handlers/users/menu_handlers.py:49
+msgid "Choose a language"
+msgstr "Выберите язык"
+
+#: handlers/users/menu_handlers.py:57 handlers/users/menu_handlers.py:94
+msgid "Hi,Can I help you?"
+msgstr "Здравствуйте, я могу Вам чем-то помочь?"
+
+#: handlers/users/menu_handlers.py:63
+msgid "Choose the city"
+msgstr "Выберите город"
+
+#: handlers/users/menu_handlers.py:70
+msgid "Choose the unit"
+msgstr "Выберите единицу измерения"
+
+#: handlers/users/menu_handlers.py:77
+msgid "Do you have liquid in the parcel"
+msgstr "Есть ли у вас жидкость в посылке?"
+
+#: handlers/users/menu_handlers.py:82
+msgid "Enter mass of product in {}"
+msgstr "Введите массу продукта в {}"
+
+#: handlers/users/menu_handlers.py:138 keyboards/inline/menu_keyboards.py:95
+#: keyboards/inline/menu_keyboards.py:96
+msgid "kg"
+msgstr "кг"
+
+#: handlers/users/menu_handlers.py:149 keyboards/inline/menu_keyboards.py:58
+msgid "Baki"
+msgstr "Баку"
+
+#: handlers/users/menu_handlers.py:150 keyboards/inline/menu_keyboards.py:57
+msgid "Baku"
+msgstr "Баку"
+
+#: handlers/users/menu_handlers.py:151 keyboards/inline/menu_keyboards.py:58
+msgid "Sumqayit"
+msgstr "Сумгаит"
+
+#: handlers/users/menu_handlers.py:152 keyboards/inline/menu_keyboards.py:57
+msgid "Sumgait"
+msgstr "Сумгаит"
+
+#: handlers/users/menu_handlers.py:153 keyboards/inline/menu_keyboards.py:58
+msgid "Gence"
+msgstr "Гянджа"
+
+#: handlers/users/menu_handlers.py:154 keyboards/inline/menu_keyboards.py:57
+msgid "Ganja"
+msgstr "Гянджа"
+
+#: handlers/users/menu_handlers.py:155 keyboards/inline/menu_keyboards.py:58
+msgid "Diger"
+msgstr "Другие"
+
+#: handlers/users/menu_handlers.py:156 keyboards/inline/menu_keyboards.py:57
+msgid "Other"
+msgstr "Другие"
+
+#: handlers/users/menu_handlers.py:163
+msgid "You enter the wrong mass. Please enter the right mass"
+msgstr "Вы вводите массу неправильно. Пожалуйста, введите массу правильно"
+
+#: keyboards/inline/menu_keyboards.py:40
+msgid "Calculator"
+msgstr "Калькулятор"
+
+#: keyboards/inline/menu_keyboards.py:44
+msgid "Location"
+msgstr "Местонахождение"
+
+#: keyboards/inline/menu_keyboards.py:48 keyboards/inline/menu_keyboards.py:121
+msgid "Change the language"
+msgstr "Изменить язык"
+
+#: keyboards/inline/menu_keyboards.py:66 keyboards/inline/menu_keyboards.py:86
+#: keyboards/inline/menu_keyboards.py:103
+msgid "Back"
+msgstr "Назад"
+
+#: keyboards/inline/menu_keyboards.py:113
+msgid "Repeat the input"
+msgstr "Повторить ввод"
+
+#: keyboards/inline/menu_keyboards.py:117
+msgid "Back to the main menu"
+msgstr "Вернуться на главное меню"
+
+#~ msgid "Gəncə"
+#~ msgstr "Гянджя"
+
+#~ msgid "Sumqayıt"
+#~ msgstr "Сумгаит"
+
+#~ msgid "Digər"
+#~ msgstr "Другие"
+
